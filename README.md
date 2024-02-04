@@ -8,6 +8,8 @@ To run flask application
 ```
 python app.py
 ```
+https://mango-chef-qcmtj.pwskills.app:5000/
+pip install -r requriments.txt
 
 
 To access your flask application open new tab in and paste the url:
